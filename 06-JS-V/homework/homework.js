@@ -70,7 +70,7 @@ function agregarStringInvertida() {
 
     }
     detalle(){
-    	const details = Object.fromEntries();
+    	const details = Object.fromEntries(Object.entries(this));
     	return details;
     }
 }
