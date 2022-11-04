@@ -1,0 +1,2 @@
+Prototype: Es un metodo de JS para heredar metodos de una clase a nuevas clases que deseamos tengan acceso a los mismos metodos.
+Constructor: Es un metodo que nos crea un objeto deseado ya sea vacio o con ciertos parametros dados.
