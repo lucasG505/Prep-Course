@@ -1,0 +1,5 @@
+Variables: Son elementos definidios por uno para almacenar un valor de algun tipo valido para luego usarlos.
+Strings: Es un tipo de dato que representa las palabras. Los datos de tipo String van entre comillas
+Funciones: Son estructuras que pueden tomar ciertos valores previos para hacer algo con ellos y devolver un nuevo resultado
+Declaraciones If: Son estructuras que analizan el valor de verdad de una declaracion y en base a si se cumpple o no toma un camino de acciones u otro
+Valores Booleanos: SOn un tipo de dato que puede tomar solo dos valores true o false. 
