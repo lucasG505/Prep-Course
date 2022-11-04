@@ -1,0 +1,1 @@
+Arrays: Un tipo de dato mas complejo que funciona como una lsita de elemntos de uno o varios tipos, son flexibles en su length y es buena practica definirlos como const.
