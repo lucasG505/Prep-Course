@@ -1,0 +1,5 @@
+Objetos: Los objetos son contenedores de informacion sobre el objeto en si, estos pueden contener funciones dentro las cuales se llaman metodos.
+Propiedades: Las propiedades de un objeto es la informacion que almacena, estos pueden ser de cualquier tipo de dato existente en JS e incluso otros objetos.
+Metodos: Los metodos son funciones que operan dentro de objetos.
+For...In: Es una variacion del bucle for pero adaptado para iterar sobre un objeto.
+Corchete vs Puntos: Son dos notaciones validas para acceder y modificar las propiedades de un objeto.
