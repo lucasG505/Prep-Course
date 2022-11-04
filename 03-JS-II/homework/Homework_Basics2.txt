@@ -1,0 +1,2 @@
+for: Es un statement de ciclo, permite repetir una porcion de codigo la cantidad de veces que se quiera 
+operadores logicos: Son operadores que funcionan para crear condiciones, && nos permite hacer que dos expresiones sean verdad antes de continuar asi mismo || nos permite que se cumpla una de dos o mas condiciones dadas y ! nos permite decir que se ejecute algo si la negacion de la expresion es true.
