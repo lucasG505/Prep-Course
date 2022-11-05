@@ -1,0 +1,1 @@
+Calbacks: Son funciones que fueron tomadas como argumentos para algo, por convencion cunado esto sucede se les denomina callbacks y siempre deben tener una sentencia return en ellas.
