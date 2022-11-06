@@ -1,0 +1,15 @@
+#foto {
+	float:right;
+	min-width:300px;
+	width:360px;
+	margin: 0 0 1em 1em;
+}
+
+#description {
+	width:75%;
+	
+
+}
+#intro {
+	border:3px dashed red;
+}
