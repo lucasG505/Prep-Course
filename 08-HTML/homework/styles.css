@@ -1,18 +1,46 @@
 h1{
 				color:steelblue;
+				
 }
 img {
-				width:400px;
+				max-width:400px;
+				margin-left:auto;
+				margin-right:auto;
 }
 #thirdDiv{
-				width:600px;
+				max-width:600px;
 				height:500px;
 				background:antiquewhite;
 				padding:50px;
-				border: 5px solid black;
+				border: 10px solid black;
+				margin:auto;
+				display: -webkit-flex;
+  				display:         flex;
+  				-webkit-align-items: center;
+          			align-items: center;
+  				-webkit-justify-content: center;
+		          	justify-content: center;
+          			content:"";
+          			clear:both;
+          			display:table;
 				
 }
+.divClass{
+				margin:auto;
+				max-width:300px;
+				-webkit-align-items:center;
+				align-items:center;
+          			box-sizing: border-box;
+}
+
+				
 #spanId{
 				font-size:18px;
 				margin:50px;
+				display:block;
+				
 }
+body{
+				background-image:url(https://imgs.search.brave.com/frnMepwsp_PoZc1dXGvxoRkkzGHpe_CUBOw8CNlqLq8/rs:fit:608:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5n/TmdYU3pESjY2cExy/bmU0Qmt2TmZ3SGFG/eCZwaWQ9QXBp);
+}
+
